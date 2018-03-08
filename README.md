@@ -1,3 +1,3 @@
-#Bienvenue sur Begin-git
+# Bienvenue sur Begin-git
 
-##Ajoutez vos noms ci dessous
+## Ajoutez vos noms ci dessous
